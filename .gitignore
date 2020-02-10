@@ -146,10 +146,6 @@ dist/
 # DynamoDB Local files
 .dynamodb/
 
-# Temporary folders
-tmp/
-temp/
-
 #Historico log:
 .history
 
