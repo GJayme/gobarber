@@ -1,7 +1,7 @@
 module.exports = {
   dialect: 'postgres',
   // IP do Docker:
-  host: '172.17.0.2', 
+  host: '172.17.0.2',
   // Porta do Docker:
   port: '5432',
   username: 'postgres',
