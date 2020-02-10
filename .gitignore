@@ -150,4 +150,8 @@ dist/
 tmp/
 temp/
 
+#Historico log:
+.history
+
 # End of https://www.gitignore.io/api/node,linux,macos
+
